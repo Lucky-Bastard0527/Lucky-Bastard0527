@@ -65,6 +65,7 @@
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <br>
 </div>
+
 > ## PlayCrypto InfraStructure !
 > ### 1. 메인 웹서버 구현 : django (WebServer: nginx , WAS: gunicorn)
 > ### 2. 채팅방 채널 구현 : django + celery + redis
@@ -81,9 +82,8 @@
 > ### 3. 유저들의 활동 로그 발생 지점에 이벤트 브로커(kafka 구축 고려) 구축 (고민 중)
 > ### 4. 인스턴스들 클러스터링 후 prometheus, grafana, k8s 구축 (고민 중)
 > ### 5. 하둡, 스파크 구축 (고민 중)
->
-> ![image](https://github.com/jinman-kim/jinman-kim/assets/94787419/b369e5d0-33f9-489a-9e2f-16cc8de40044)
-
+> 
+![image](https://github.com/jinman-kim/jinman-kim/assets/94787419/b369e5d0-33f9-489a-9e2f-16cc8de40044)
 
 
 <h2 align="center">⋆｡ﾟ✶°💜 contact to me 💜⋆｡ﾟ✶°</h2>
